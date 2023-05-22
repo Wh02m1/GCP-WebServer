@@ -1,3 +1,4 @@
+![Logo](https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png)
 # GCP Multiple Instance Setup with Nginx Deployment
 
 Automate the setup of multiple instances on Google Cloud Platform (GCP) and deploy Nginx web servers on each instance with custom HTML content using this professional bash script.
