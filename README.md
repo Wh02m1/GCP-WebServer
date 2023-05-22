@@ -1,4 +1,3 @@
-# GCP-WebServer
 
 # Project Description
 
