@@ -26,6 +26,7 @@ To use this script, you need:
 
    ```bash
    sudo chmod +x
+   ```bash
    GCP_Script.sh
 
 ## Customization
