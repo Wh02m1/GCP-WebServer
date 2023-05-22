@@ -26,3 +26,10 @@ To use this script, you need:
 
    ```bash
    sudo chmod +x GCP_Script.sh
+
+## Customization
+You can customize the HTML content displayed on each instance's Nginx web page by modifying the respective variables in the script. This allows you to tailor the content to your specific needs.
+
+## Contribution
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.
+
