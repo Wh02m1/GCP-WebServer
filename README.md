@@ -1,7 +1,7 @@
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png)
 # GCP Multiple Instance Setup with Nginx Deployment
 
-THis bash script Automate the setup of multiple instances on Google Cloud Platform (GCP) and deploy Nginx web servers on each instance with custom HTML content using this professional bash script.
+This bash script Automate the setup of multiple instances on Google Cloud Platform (GCP) and deploy Nginx web servers on each instance with custom HTML content using this professional bash script.
 
 ## Features
 
